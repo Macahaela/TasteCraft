@@ -25,7 +25,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 Clone Repository
 bash
 Copy code
-git clone https://github.com/taste-craft.git
+git clone [https://github.com/taste-craft.git](https://github.com/Macahaela/TasteCraft)
 Navigasi ke Direktori Proyek
 bash
 Copy code
