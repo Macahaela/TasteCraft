@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "252320645083",
+    "firebase_url": "https://recipe-app-bb9c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "recipe-app-bb9c2",
+    "storage_bucket": "recipe-app-bb9c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252320645083:android:bce37150560b78f3c5b1fe",
+        "android_client_info": {
+          "package_name": "com.tastecraft.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252320645083-7bikmtbb5ld5689h7cr4qgp83cbk7nlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tastecraft.app",
+            "certificate_hash": "797f31d36884386b371772e5f24eb21d8c7667dd"
+          }
+        },
+        {
+          "client_id": "252320645083-4vdp6k4180b0ggj1r1qu14c94olr9cos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUN3IEuPtD0QOqGy9jLBjC1Id2OoW0S30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252320645083-4vdp6k4180b0ggj1r1qu14c94olr9cos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252320645083-4vdp6k4180b0ggj1r1qu14c94olr9cos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tastecraft.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
