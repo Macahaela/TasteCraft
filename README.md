@@ -10,7 +10,7 @@ Taste Craft adalah aplikasi mobile yang dirancang untuk para pecinta kuliner dan
 📱 Aplikasi di Google Play
 🚀 Fitur Utama
 Penelusuran Resep Berdasarkan Bahan: Cari resep yang bisa dibuat dengan bahan yang Anda miliki di rumah.
-Rekomendasi Restoran: Dapatkan rekomendasi restoran sesuai dengan preferensi rasa Anda.
+Rekomendasi Resep: Dapatkan rekomendasi resep sesuai dengan preferensi rasa Anda.
 Komunitas Kuliner: Bergabung dengan komunitas untuk berbagi ulasan, tips, dan pengalaman kuliner.
 Favorit dan Bookmark: Simpan resep favorit Anda untuk akses cepat di kemudian hari.
 Tips Memasak: Dapatkan tips dan trik memasak dari para ahli kuliner.
