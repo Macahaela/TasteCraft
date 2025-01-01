@@ -67,7 +67,7 @@ Buka Pull Request
 Distribusi ini dilisensikan di bawah MIT License. Lihat LICENSE untuk informasi lebih lanjut.
 
 📞 Kontak
-Jika Anda memiliki pertanyaan atau ingin menghubungi tim pengembang, silakan kirim email ke email@example.com.
+Jika Anda memiliki pertanyaan atau ingin menghubungi tim pengembang, silakan kirim email ke tastecraft9@gmail.com.
 
 Terima kasih telah mengunjungi repository Taste Craft! Selamat memasak dan berbagi resep! 🍽️
 
