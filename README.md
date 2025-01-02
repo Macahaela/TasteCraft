@@ -1,4 +1,4 @@
-Taste Craft
+![Taste Craft](https://github.com/user-attachments/assets/f6e561b1-cd67-4573-98de-41650e59bd07)
 <!-- Ganti dengan URL gambar banner Anda -->
 
 ## Deskripsi
