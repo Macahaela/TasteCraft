@@ -4,15 +4,20 @@
 ## Deskripsi
 Taste Craft adalah aplikasi mobile yang dirancang untuk para pecinta kuliner dan memasak. Aplikasi ini menyediakan berbagai resep makanan lengkap dengan daftar bahan-bahan yang dibutuhkan serta langkah-langkah pembuatan yang jelas dan mudah diikuti. Dengan antarmuka yang intuitif dan kategori resep yang beragam, mulai dari masakan tradisional hingga hidangan internasional, Taste Craft membantu pengguna menemukan inspirasi baru untuk memasak di rumah. Fitur tambahan seperti pencarian berbasis bahan, favorit, dan tips memasak menjadikan aplikasi ini teman ideal di dapur Anda.
 
+
 ## 📚 Link Penting
 🎥 Video Pitch Deck
 Untuk detail lengkap mengenai proyek kami, silakan tonton video pitch deck melalui tautan berikut: https://drive.google.com/drive/folders/1N8OGPvIbrvMPZWh4KVOwst8vq-T7kBcq
 
+
 📂 Repository Utama
 Repository utama bisa diakses di  https://github.com/Macahaela/TasteCraft
 
+
 📱 Aplikasi di Google Play
 Aplikasi sudah dapat diunduh di Google Playstore link : https://play.google.com/store/apps/details?id=com.tastecraft.app 
+
+
 
 ## 🚀 Fitur Utama
 Penelusuran Resep Berdasarkan Bahan: Cari resep yang bisa dibuat dengan bahan yang Anda miliki di rumah.
@@ -21,11 +26,17 @@ Komunitas Kuliner: Bergabung dengan komunitas untuk berbagi ulasan, tips, dan pe
 Favorit dan Bookmark: Simpan resep favorit Anda untuk akses cepat di kemudian hari.
 Tips Memasak: Dapatkan tips dan trik memasak dari para ahli kuliner.
 
+
+
 ## 👥 Tim Pengembang
-Gladys Lady Nathasha (1227050052)
-Ismail Muhammad Ahmadi (1227050062)
-M. Galang Pangestu N H (1227050066)
-Michael (1227050071)
+Gladys Lady Nathasha  
+Email : gladysln00@gmail.com  
+Ismail Muhammad Ahmadi  
+ismailmahmadi011@gmail.com  
+M. Galang Pangestu N H  
+mglngp2004@gmail.com  
+Michael  
+macahaela@gmail.com  
 
 
 ## 🛠️ Instalasi
@@ -48,11 +59,13 @@ bash
 Copy code
 flutter run
 
+
 ## 🖥️ Teknologi yang Digunakan
 Flutter: Framework UI open-source untuk membuat aplikasi cross-platform.
 Firebase Firestore: Basis data real-time untuk menyimpan resep dan data pengguna.
 Google OAuth: Otentikasi pengguna melalui akun Google.
 CanvasKit: Renderer grafis untuk performa tinggi di Flutter Web.
+
 
 ## 📷 Screenshots
 ![Android 1](https://github.com/user-attachments/assets/2b096aa2-4e50-42da-9404-16d3cd574e45)
@@ -78,8 +91,11 @@ bash
 Copy code
 git push origin feature/YourFeature
 Buka Pull Request
+
+
 🧾 Lisensi
 Distribusi ini dilisensikan di bawah MIT License. Lihat LICENSE untuk informasi lebih lanjut.
+
 
 ## 📞 Kontak
 Jika Anda memiliki pertanyaan atau ingin menghubungi tim pengembang, silakan kirim email ke tastecraft9@gmail.com.
@@ -97,12 +113,16 @@ Bagian Dokumentasi: Jika proyek Anda memiliki dokumentasi lebih lengkap, sertaka
 
 markdown
 Copy code
+
+
 ## 📖 Dokumentasi
 Untuk informasi lebih lanjut, silakan kunjungi [Dokumentasi](https://github.com/example/taste-craft/wiki).
 Bagian FAQ: Tambahkan bagian FAQ jika ada pertanyaan umum yang sering diajukan.
 
 markdown
 Copy code
+
+
 ## ❓ FAQ
 **Bagaimana cara menambahkan resep baru?**
 Anda dapat menambahkan resep baru melalui fitur 'Tambah Resep' di aplikasi setelah login.
@@ -115,6 +135,8 @@ Tautan ke Media Sosial: Tambahkan tautan ke akun media sosial proyek jika ada.
 
 markdown
 Copy code
+
+
 ## 📱 Media Sosial
 - [Twitter](https://twitter.com/example)
 - [Instagram](https://instagram.com/example)
