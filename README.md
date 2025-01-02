@@ -55,7 +55,7 @@ CanvasKit: Renderer grafis untuk performa tinggi di Flutter Web.
 
 
 
-##🧾 Lisensi
+## 🧾 Lisensi
 Distribusi ini dilisensikan di bawah MIT License. Lihat LICENSE untuk informasi lebih lanjut.
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub stars](https://img.shields.io/github/stars/example/taste-craft.svg?style=social&label=Star)
@@ -71,8 +71,6 @@ Terima kasih telah mengunjungi repository Taste Craft! Selamat memasak dan berba
 
 ## 📖 Dokumentasi
 Untuk informasi lebih lanjut, silakan kunjungi [Dokumentasi](https://github.com/example/taste-craft/wiki).
-Bagian FAQ: Tambahkan bagian FAQ jika ada pertanyaan umum yang sering diajukan.
-
 
 
 ## ❓ FAQ
