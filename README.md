@@ -5,20 +5,29 @@
 Taste Craft adalah aplikasi mobile yang dirancang untuk para pecinta kuliner dan memasak. Aplikasi ini menyediakan berbagai resep makanan lengkap dengan daftar bahan-bahan yang dibutuhkan serta langkah-langkah pembuatan yang jelas dan mudah diikuti. Dengan antarmuka yang intuitif dan kategori resep yang beragam, mulai dari masakan tradisional hingga hidangan internasional, Taste Craft membantu pengguna menemukan inspirasi baru untuk memasak di rumah. Fitur tambahan seperti pencarian berbasis bahan, favorit, dan tips memasak menjadikan aplikasi ini teman ideal di dapur Anda.
 
 ## 📚 Link Penting
-## 🎥 Video Pitch Deck
-## 📂 Repository Utama
-## 📱 Aplikasi di Google Play
+🎥 Video Pitch Deck
+Untuk detail lengkap mengenai proyek kami, silakan tonton video pitch deck melalui tautan berikut: https://drive.google.com/drive/folders/1N8OGPvIbrvMPZWh4KVOwst8vq-T7kBcq
+
+📂 Repository Utama
+Repository utama bisa diakses di  https://github.com/Macahaela/TasteCraft
+
+📱 Aplikasi di Google Play
+Aplikasi sudah dapat diunduh di Google Playstore link : https://play.google.com/store/apps/details?id=com.tastecraft.app 
+
 ## 🚀 Fitur Utama
 Penelusuran Resep Berdasarkan Bahan: Cari resep yang bisa dibuat dengan bahan yang Anda miliki di rumah.
 Rekomendasi Resep: Dapatkan rekomendasi resep sesuai dengan preferensi rasa Anda.
 Komunitas Kuliner: Bergabung dengan komunitas untuk berbagi ulasan, tips, dan pengalaman kuliner.
 Favorit dan Bookmark: Simpan resep favorit Anda untuk akses cepat di kemudian hari.
 Tips Memasak: Dapatkan tips dan trik memasak dari para ahli kuliner.
+
 ## 👥 Tim Pengembang
-Nama 1 (UI/UX Designer)
-Nama 2 (Backend Developer)
-Nama 3 (Frontend Developer)
-Nama 4 (Product Manager)
+Gladys Lady Nathasha (1227050052)
+Ismail Muhammad Ahmadi (1227050062)
+M. Galang Pangestu N H (1227050066)
+Michael (1227050071)
+
+
 ## 🛠️ Instalasi
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
@@ -38,12 +47,18 @@ Jalankan Aplikasi
 bash
 Copy code
 flutter run
+
 ## 🖥️ Teknologi yang Digunakan
 Flutter: Framework UI open-source untuk membuat aplikasi cross-platform.
 Firebase Firestore: Basis data real-time untuk menyimpan resep dan data pengguna.
 Google OAuth: Otentikasi pengguna melalui akun Google.
 CanvasKit: Renderer grafis untuk performa tinggi di Flutter Web.
-📷 Screenshots
+
+## 📷 Screenshots
+![Android 1](https://github.com/user-attachments/assets/2b096aa2-4e50-42da-9404-16d3cd574e45)
+![Android 2](https://github.com/user-attachments/assets/3c03bdf9-6192-4e54-96a1-453f7e4f2e80)
+![Android 3](https://github.com/user-attachments/assets/1313b43e-3600-48e3-b4a3-2ab515c1558d)
+![Android 4](https://github.com/user-attachments/assets/86304144-2b5e-4ea2-9346-9d5ad423e5bf)
 
 
 ## 📝 Kontribusi
