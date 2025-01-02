@@ -1,25 +1,25 @@
 Taste Craft
 <!-- Ganti dengan URL gambar banner Anda -->
 
-Deskripsi
+## Deskripsi
 Taste Craft adalah aplikasi mobile yang dirancang untuk para pecinta kuliner dan memasak. Aplikasi ini menyediakan berbagai resep makanan lengkap dengan daftar bahan-bahan yang dibutuhkan serta langkah-langkah pembuatan yang jelas dan mudah diikuti. Dengan antarmuka yang intuitif dan kategori resep yang beragam, mulai dari masakan tradisional hingga hidangan internasional, Taste Craft membantu pengguna menemukan inspirasi baru untuk memasak di rumah. Fitur tambahan seperti pencarian berbasis bahan, favorit, dan tips memasak menjadikan aplikasi ini teman ideal di dapur Anda.
 
-📚 Link Penting
-🎥 Video Pitch Deck
-📂 Repository Utama
-📱 Aplikasi di Google Play
-🚀 Fitur Utama
+## 📚 Link Penting
+## 🎥 Video Pitch Deck
+## 📂 Repository Utama
+## 📱 Aplikasi di Google Play
+## 🚀 Fitur Utama
 Penelusuran Resep Berdasarkan Bahan: Cari resep yang bisa dibuat dengan bahan yang Anda miliki di rumah.
 Rekomendasi Resep: Dapatkan rekomendasi resep sesuai dengan preferensi rasa Anda.
 Komunitas Kuliner: Bergabung dengan komunitas untuk berbagi ulasan, tips, dan pengalaman kuliner.
 Favorit dan Bookmark: Simpan resep favorit Anda untuk akses cepat di kemudian hari.
 Tips Memasak: Dapatkan tips dan trik memasak dari para ahli kuliner.
-👥 Tim Pengembang
+## 👥 Tim Pengembang
 Nama 1 (UI/UX Designer)
 Nama 2 (Backend Developer)
 Nama 3 (Frontend Developer)
 Nama 4 (Product Manager)
-🛠️ Instalasi
+## 🛠️ Instalasi
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
 Clone Repository
@@ -38,7 +38,7 @@ Jalankan Aplikasi
 bash
 Copy code
 flutter run
-🖥️ Teknologi yang Digunakan
+## 🖥️ Teknologi yang Digunakan
 Flutter: Framework UI open-source untuk membuat aplikasi cross-platform.
 Firebase Firestore: Basis data real-time untuk menyimpan resep dan data pengguna.
 Google OAuth: Otentikasi pengguna melalui akun Google.
@@ -46,7 +46,7 @@ CanvasKit: Renderer grafis untuk performa tinggi di Flutter Web.
 📷 Screenshots
 
 
-📝 Kontribusi
+## 📝 Kontribusi
 Kontribusi sangat kami hargai! Berikut adalah langkah-langkah untuk berkontribusi:
 
 Fork Repository
@@ -66,7 +66,7 @@ Buka Pull Request
 🧾 Lisensi
 Distribusi ini dilisensikan di bawah MIT License. Lihat LICENSE untuk informasi lebih lanjut.
 
-📞 Kontak
+## 📞 Kontak
 Jika Anda memiliki pertanyaan atau ingin menghubungi tim pengembang, silakan kirim email ke tastecraft9@gmail.com.
 
 Terima kasih telah mengunjungi repository Taste Craft! Selamat memasak dan berbagi resep! 🍽️
