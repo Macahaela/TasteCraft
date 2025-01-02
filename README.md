@@ -74,8 +74,8 @@ Untuk informasi lebih lanjut, silakan kunjungi [Dokumentasi](https://github.com/
 
 
 ## ❓ FAQ
-**Bagaimana cara menambahkan resep baru?**
+**Bagaimana cara menambahkan resep baru?**  
 Anda dapat menambahkan resep baru melalui fitur 'Tambah Resep' di aplikasi setelah login.
-
-**Apakah aplikasi ini gratis digunakan?**
+  
+**Apakah aplikasi ini gratis digunakan?**  
 Ya, **Taste Craft** dapat diunduh dan digunakan secara gratis di Google Play Store.
