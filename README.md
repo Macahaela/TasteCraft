@@ -58,7 +58,7 @@ CanvasKit: Renderer grafis untuk performa tinggi di Flutter Web.
 ## 🧾 Lisensi
 Distribusi ini dilisensikan di bawah MIT License. Lihat LICENSE untuk informasi lebih lanjut.
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub stars][![GitHub stars](https://img.shields.io/github/stars/Macahaela/TasteCraft.svg?style=social&label=Star)](https://github.com/Macahaela/TasteCraft/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Macahaela/TasteCraft.svg?style=social&label=Star)](https://github.com/Macahaela/TasteCraft/stargazers)
 
 
 
