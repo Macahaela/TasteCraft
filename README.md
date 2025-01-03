@@ -71,7 +71,8 @@ Terima kasih telah mengunjungi repository Taste Craft! Selamat memasak dan berba
 
 
 ## 📖 Dokumentasi
-Untuk informasi lebih lanjut, silakan kunjungi aplikasi kami di Play Store melalui tautan berikut: [Play Store]([https://play.google.com/store/apps](https://play.google.com/store/apps/details?id=com.tastecraft.app ))
+Untuk informasi lebih lanjut, silakan kunjungi aplikasi kami di Play Store melalui tautan berikut: [Play Store](https://play.google.com/store/apps/details?id=com.tastecraft.app)
+
 
 
 ## ❓ FAQ
